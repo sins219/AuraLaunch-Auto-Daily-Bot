@@ -1,6 +1,6 @@
 # AuraLaunch Auto-Daily Bot
 
-Automated bot for https://beta.auralaunch.org/incentives (LitVM Testnet, chainId 33139).
+Automated bot for https://beta.auralaunch.org/incentives (LitVM Testnet, chainId 4441).
 
 Supports **multiple wallets** from `account.txt` (one private key per line).
 
@@ -24,6 +24,7 @@ Features:
 7. Done
 
 - Faucet: https://liteforge.hub.caldera.xyz/
+          https://t.me/litvm_faucet_bot
 - Earn 1,000 $AURA for eligible airdrop
 - Details: https://docs.auralaunch.org/usdaura/aura-airdrop-zero
 
