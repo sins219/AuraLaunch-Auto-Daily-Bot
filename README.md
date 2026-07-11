@@ -7,7 +7,7 @@ Supports **multiple wallets** from `account.txt` (one private key per line).
 Features:
 - Wallet login (sign message `auth:<address>` -> `POST /api/auth` -> session cookie `aura_token`)
 - Claim daily login points (`POST /api/auth/me/claim`)
-- Claim REV + AURA faucet on-chain (6h cooldown, 10 tokens/claim)
+- Claim REV + AURA faucet on-chain (8h cooldown, 10 tokens/claim)
 - Auto-stake REV/AURA (interactive: asks AURA, REV, & how many times to stake on first run, applied to ALL wallets)
 - Sync on-chain tasks (`POST /api/incentives/tasks/{id}/verify?index={pos}`)
 
