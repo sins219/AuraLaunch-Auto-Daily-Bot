@@ -1,0 +1,12 @@
+# Secrets / credentials â€” NEVER commit these.
+account.txt
+.env
+# config.json holds the stake plan; keep it local so it isn't overwritten.
+config.json
+*.session
+
+# Logs / runtime artifacts
+bot_run.log
+bot.log
+node_modules/
+npm-debug.log*
