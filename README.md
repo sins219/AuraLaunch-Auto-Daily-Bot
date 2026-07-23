@@ -160,18 +160,19 @@ stake / balance lines (or the API response in step [1]) gives you the
 <!-- AURALAUNCH_RUNLOG_START -->
 ## 📋 Bot Run Log
 
-_Last updated: 2026-07-22 17:14:16 UTC_
+_Last updated: 2026-07-23 02:26:27 UTC_
 
 ### 🟢 Last Run
 
 | Wallet | Daily Login | Faucet AURA | Faucet REV | Status |
 |--------|-------------|-------------|------------|--------|
-| 0xA04E…5C49 | ℹ️ already (streak 7) | +10 | +10 | ok |
+| 0xA04E…5C49 | ✅ +20 pts (streak 1) | +10 | +10 | ok |
 
 ### 📜 History (newest first, last 30)
 
 | Time (UTC) | Wallet | Daily Login | AURA | REV | Status |
 |------------|--------|-------------|------|-----|--------|
+| 2026-07-23 02:26:27 UTC | 0xA04E…5C49 | ✅ +20 pts (streak 1) | +10 | +10 | ok |
 | 2026-07-22 17:14:16 UTC | 0xA04E…5C49 | ℹ️ already (streak 7) | +10 | +10 | ok |
 | 2026-07-22 10:22:25 UTC | 0xA04E…5C49 | ℹ️ already (streak 7) | +10 | +10 | ok |
 | 2026-07-22 02:20:59 UTC | 0xA04E…5C49 | ✅ +140 pts (streak 7) | +10 | +10 | ok |
